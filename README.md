@@ -1,7 +1,7 @@
 ## 👋Olá eu sou o Daniel Kenji, desenvolvedor frontend e estudante de T.I!
 
 No momento criando aplicações <strong>Javascript</strong>, desenvolvendo a <strong>lógica de programação</strong> <br> e melhorando sites. 
-Acesse meu portifólio completo <a href="#">aqui</a>
+<br>Acesse meu portifólio completo <a href="#">aqui</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kenji-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
