@@ -1,4 +1,4 @@
-## 👋Olá eu sou o Daniel Kenji, desenvolvedor frontend e estudante de T.I!
+## Olá, me chamo Daniel Kenji sou Desenvolvedor Front-End e Estudante de ADS!
 
 No momento criando aplicações <strong>Javascript</strong>, desenvolvendo a <strong>lógica de programação</strong> <br> e melhorando sites. 
 <br>Acesse meu portifólio completo <a href="#">aqui</a>
