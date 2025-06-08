@@ -1,7 +1,7 @@
 ## Olá, me chamo Daniel Kenji sou Desenvolvedor Front-End e Estudante de ADS!
 
 No momento criando aplicações <strong>Javascript</strong>, desenvolvendo a <strong>lógica de programação</strong> <br> e melhorando sites. 
-<br>Acesse meu portifólio completo <a href="https://kenjiodan.github.io/htmlcss-basics/projetos/portfolio01-project/">aqui</a>
+<br>Acesse meu portifólio completo <a href="https://kenjiodan.github.io/htmlcss-basics/projetos/portfolio01-project/portfolio.html">aqui</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kenji-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
